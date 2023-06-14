@@ -6,3 +6,4 @@ int p=20;
 }catch(ArithmeticException e){System.out.println(e);}
 System.out.println("rest of the code...");
 }
+}
